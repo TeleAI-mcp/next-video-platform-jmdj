@@ -1,2 +1,3 @@
-# next-video-platform-jmdj
-A video hosting platform for modern development workflows
+# Next Video Platform Jmdj
+
+A video hosting platform for modern development workflows.
